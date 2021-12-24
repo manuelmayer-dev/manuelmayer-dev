@@ -1,4 +1,25 @@
-### Hi there 👋
+### Welcome to my profile
+
+💡 Coding skills:
+- C#: ⭐⭐⭐
+- Arduino (C, C++): ⭐⭐
+- Java: ⭐⭐
+- PHP: ⭐
+- JavaScript: ⭐
+- HTML: ⭐⭐
+- CSS: ⭐
+---
+📋 Main project:
+- [Macro Deck](https://github.com/SuchByte/Macro-Deck)
+---
+💡 Hobbys:
+- Coding
+- 3D printing
+- Making electronic stuff with micro controllers and such
+- Gaming
+---
+📫 Contact:
+- Discord: SuchByte#5461
 
 <!--
 **SuchByte/SuchByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
