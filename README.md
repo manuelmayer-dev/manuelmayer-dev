@@ -17,6 +17,7 @@
 - 3D printing
 - Making electronic stuff with micro controllers and such
 - Gaming
+- Smart Home
 ---
 📫 Contact:
 - Discord: SuchByte#5461
