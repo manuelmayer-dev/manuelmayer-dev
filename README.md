@@ -1,16 +1,7 @@
-### Welcome to my profile
+## Welcome to my profile
 
-💡 Coding skills:
-- C#: ⭐⭐⭐
-- Arduino (C, C++): ⭐⭐
-- Java: ⭐⭐
-- PHP: ⭐
-- JavaScript: ⭐
-- HTML: ⭐⭐
-- CSS: ⭐
----
-📋 Main project:
-- [Macro Deck](https://github.com/SuchByte/Macro-Deck)
+### Founder of the [Macro Deck](https://github.com/SuchByte/Macro-Deck) project
+
 ---
 💡 Hobbys:
 - Coding
