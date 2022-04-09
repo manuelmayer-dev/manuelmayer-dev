@@ -3,7 +3,7 @@
 ### Founder of the [Macro Deck](https://github.com/SuchByte/Macro-Deck) project
 
 ---
-💡 Hobbys:
+💡 Hobbies:
 - Coding
 - 3D printing
 - Making electronic stuff with micro controllers and such
