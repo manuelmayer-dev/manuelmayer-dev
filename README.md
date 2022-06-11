@@ -1,6 +1,6 @@
 ## Welcome to my profile
 
-### Founder of the [Macro Deck](https://github.com/SuchByte/Macro-Deck) project
+### Founder of the [Macro Deck](https://github.com/Macro-Deck-org) project
 
 ---
 💡 Hobbies:
