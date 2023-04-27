@@ -1,6 +1,6 @@
 ## Hi, I'm Manuel 👋🏻
 
-### Founder of the [Macro Deck](https://github.com/Macro-Deck-App) project
+- ⌨️ Founder of the [**Macro Deck**](https://github.com/Macro-Deck-App) project
 
 - 👨‍💻 Currently working at **[LapID Service GmbH](https://www.lapid.de/)**
 
