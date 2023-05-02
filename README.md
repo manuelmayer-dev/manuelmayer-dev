@@ -21,7 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-702cf4?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 ## Support my work
-<a href="https://www.buymeacoffee.com/suchbyte"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=suchbyte&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#e028af', 'D1D5KXS5B');kofiwidget2.draw();</script> 
 
 ## Stats
 ![Manuel Mayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=suchbyte&show_icons=true&theme=transparent)
