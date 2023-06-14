@@ -25,6 +25,6 @@
 <a href='https://ko-fi.com/D1D5KXS5B' target='_blank'><img height='42' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Stats
-![Manuel Mayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=suchbyte&show_icons=true&theme=transparent)
+![Manuel Mayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelmayer-dev&show_icons=true&theme=transparent)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchbyte" alt="suchbyte" /> </p>
