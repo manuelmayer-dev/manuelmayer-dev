@@ -6,7 +6,7 @@
 
 - 📫 Email: **info@manuel-mayer.dev**
 
-- 💬 Discord: **ManuelMayer#5461**
+- 💬 Discord: **manuelmayer**
 
 ## Technologies I use
 ![.NET](https://img.shields.io/badge/.net-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)
