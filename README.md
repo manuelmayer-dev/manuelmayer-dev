@@ -2,7 +2,7 @@
 
 - ⌨️ Founder of the [**Macro Deck**](https://github.com/Macro-Deck-App) project
 
-- 👨‍💻 Currently working at **[LapID Service GmbH](https://www.lapid.de/)**
+- 👨‍💻 Full-time developer at **[LapID Service GmbH](https://www.lapid.de/)**
 
 - 📫 Email: **info@manuel-mayer.dev**
 
