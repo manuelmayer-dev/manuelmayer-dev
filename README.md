@@ -9,6 +9,7 @@
 - 💬 Discord: **manuelmayer**
 
 ## Technologies I use
+![Swift](https://img.shields.io/badge/swift-df5e44?style=for-the-badge&logo=swift&logoColor=white)
 ![.NET](https://img.shields.io/badge/.net-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f54d27?style=for-the-badge&logo=Git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
