@@ -11,7 +11,10 @@
 ## Technologies I use
 ![Swift](https://img.shields.io/badge/swift-df5e44?style=for-the-badge&logo=swift&logoColor=white)
 ![.NET](https://img.shields.io/badge/.net-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![Fastlane](https://img.shields.io/badge/fastlane-93c161?style=for-the-badge&logo=fastlane&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f54d27?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-2dba4e?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-dd4814?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
