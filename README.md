@@ -11,6 +11,7 @@
 ## Technologies I use
 ![Swift](https://img.shields.io/badge/swift-df5e44?style=for-the-badge&logo=swift&logoColor=white)
 ![.NET](https://img.shields.io/badge/.net-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Ionic](https://img.shields.io/badge/ionic-498aff?style=for-the-badge&logo=ionic&logoColor=white)
 
 ![Fastlane](https://img.shields.io/badge/fastlane-93c161?style=for-the-badge&logo=fastlane&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f54d27?style=for-the-badge&logo=Git&logoColor=white)
