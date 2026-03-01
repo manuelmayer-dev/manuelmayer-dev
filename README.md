@@ -1,8 +1,11 @@
-## Hi, I'm Manuel 👋🏻
+## Hi, I’m Manuel 👋🏻  
+**Software & DevOps Engineer**
 
 - ⌨️ Founder & maintainer of the [**Macro Deck**](https://github.com/Macro-Deck-App) project
 
-- 👨‍💻 Full-time software developer at **[LapID Service GmbH](https://www.lapid.de/)**
+- ⌨️ Founder & maintainer of [**CountTogether**](https://counttogether.app)
+
+- 👨‍💻 Full-time DevOps Engineer at **[LapID Service GmbH](https://www.lapid.de/)**
 
 - 📫 Email: **info@manuel-mayer.dev**
 
